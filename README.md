@@ -1,3 +1,3 @@
 # hello-world
-Just my repository Yet!
 Change Message!
+Hi, hello world!
